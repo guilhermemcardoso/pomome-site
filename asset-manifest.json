@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pomome-site/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pomome-site/static/js/main.1639aaf0.chunk.js",
+    "main.js.map": "/pomome-site/static/js/main.1639aaf0.chunk.js.map",
+    "runtime-main.js": "/pomome-site/static/js/runtime-main.bdfc7f93.js",
+    "runtime-main.js.map": "/pomome-site/static/js/runtime-main.bdfc7f93.js.map",
+    "static/js/2.e73f709d.chunk.js": "/pomome-site/static/js/2.e73f709d.chunk.js",
+    "static/js/2.e73f709d.chunk.js.map": "/pomome-site/static/js/2.e73f709d.chunk.js.map",
+    "static/js/3.1bfa091a.chunk.js": "/pomome-site/static/js/3.1bfa091a.chunk.js",
+    "static/js/3.1bfa091a.chunk.js.map": "/pomome-site/static/js/3.1bfa091a.chunk.js.map",
+    "index.html": "/pomome-site/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pomome-site/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e73f709d.chunk.js.LICENSE.txt": "/pomome-site/static/js/2.e73f709d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pomome-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdfc7f93.js",
+    "static/js/2.e73f709d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1639aaf0.chunk.js"
+  ]
+}
